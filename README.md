@@ -78,5 +78,5 @@ CGPA: 8.32
 
 ### 🏅 Recognition
 
-- 🏆 *Philips Recognition Award* for exemplary contribution to **Audit 2.3.0** release
+- 🏆 *Philips Recognition Award* for exemplary contribution to **Audit 2.3.0.0** release
 
