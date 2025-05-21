@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-I’m a passionate Software Development Engineer at **Philips**, working on cloud-native, scalable systems in the healthcare domain. I specialize in backend development, observability stacks, infrastructure automation, and cloud-native technologies on **AWS** and **EKS**.
+I’m a passionate Software Development Engineer at **Philips**, working on cloud-native, scalable systems in the healthcare domain. I specialize in backend development, observability stacks, and cloud-native technologies on **AWS** and **EKS**.
 
 - 🔧 Currently working on: Scalable Observability Platforms using **Loki**, **Tempo**, **Mimir**, and **Grafana** on **AWS EKS**
 - 🌱 Currently learning: **Distributed tracing**, **Go performance optimizations**, and **Kubernetes Operators**
